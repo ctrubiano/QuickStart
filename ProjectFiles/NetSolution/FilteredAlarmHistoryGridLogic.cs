@@ -17,6 +17,7 @@ using FTOptix.InfluxDBStoreLocal;
 using FTOptix.Recipe;
 using FTOptix.RAEtherNetIP;
 using FTOptix.CommunicationDriver;
+using FTOptix.Report;
 #endregion
 
 public class FilteredAlarmHistoryGridLogic : BaseNetLogic

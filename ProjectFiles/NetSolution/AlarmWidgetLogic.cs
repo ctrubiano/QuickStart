@@ -12,6 +12,7 @@ using FTOptix.InfluxDBStore;
 using FTOptix.InfluxDBStoreLocal;
 using FTOptix.Recipe;
 using FTOptix.CommunicationDriver;
+using FTOptix.Report;
 #endregion
 
 public class AlarmWidgetLogic : BaseNetLogic

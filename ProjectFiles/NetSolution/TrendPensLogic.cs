@@ -13,6 +13,7 @@ using FTOptix.WebUI;
 using FTOptix.Recipe;
 using FTOptix.RAEtherNetIP;
 using FTOptix.CommunicationDriver;
+using FTOptix.Report;
 using OpcUa = UAManagedCore.OpcUa;
 
 #endregion

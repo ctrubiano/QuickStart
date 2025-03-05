@@ -95,6 +95,7 @@ Children:
 - Name: Pressure
   Type: BaseDataVariableType
   DataType: Int32
+  Value: 5
   Children:
   - Name: ns=0;EngineeringUnits
     Type: EUInformationType
@@ -104,7 +105,7 @@ Children:
     - Name: UnitId
       Type: BaseDataVariableType
       DataType: Int32
-      Value: 4342098
+      Value: 5063250
     - Name: DisplayName
       Type: BaseDataVariableType
       DataType: LocalizedText

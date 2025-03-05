@@ -542,7 +542,7 @@ Children:
   - Name: StyleSheet
     Type: NodePointer
     DataType: NodeId
-    Value: "/Objects/QuickStart/UI/FriendlyDark1"
+    Value: "/Objects/QuickStart/UI/DefaultStyleSheet"
     Children:
     - Name: Kind
       Type: PropertyType

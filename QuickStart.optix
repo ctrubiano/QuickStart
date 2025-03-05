@@ -137,15 +137,23 @@ Project:
    Uri: 'urn:FTOptix:InfluxDBStoreLocal:Net'
    Module: FTOptix.InfluxDBStoreLocal.Net
    Version: 1.0
+  35:
+   Uri: 'urn:FTOptix:Report'
+   Module: FTOptix.Report
+   Version: 4.0
+  36:
+   Uri: 'urn:FTOptix:Report:Net'
+   Module: FTOptix.Report.Net
+   Version: 2.4
  Statistics:
-  TotalNodeCount: 9235
-  Objects: 1894
+  TotalNodeCount: 9684
+  Objects: 2016
   ObjectTypes: 58
-  Variables: 7253
+  Variables: 7580
   VariableTypes: 0
   DataTypes: 0
   Methods: 30
-  References: 143
+  References: 145
   ReferenceTypes: 0
   Files: 30
  Nodes:
