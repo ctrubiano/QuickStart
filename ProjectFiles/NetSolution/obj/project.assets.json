@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ctrubiano\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/tmp/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.5.6",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctrubiano\\OneDrive - GBE\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\QuickStart\\ProjectFiles\\NetSolution\\QuickStart.csproj",
+      "projectUniqueName": "/projects/Rockwell_Automation/FactoryTalk_Optix/Projects/QuickStart/ProjectFiles/NetSolution/QuickStart.csproj",
       "projectName": "QuickStart",
-      "projectPath": "C:\\Users\\ctrubiano\\OneDrive - GBE\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\QuickStart\\ProjectFiles\\NetSolution\\QuickStart.csproj",
-      "packagesPath": "C:\\Users\\ctrubiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctrubiano\\OneDrive - GBE\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\QuickStart\\ProjectFiles\\NetSolution\\obj\\",
+      "projectPath": "/projects/Rockwell_Automation/FactoryTalk_Optix/Projects/QuickStart/ProjectFiles/NetSolution/QuickStart.csproj",
+      "packagesPath": "/tmp/.nuget/packages/",
+      "outputPath": "/projects/Rockwell_Automation/FactoryTalk_Optix/Projects/QuickStart/ProjectFiles/NetSolution/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ctrubiano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "/tmp/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -69,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\Rockwell Automation\\FactoryTalk Optix\\Studio 1.5.6.0\\Tools\\DotNetSdk\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/efs/ftoptix/1.5.6.0/server/Tools/DotNetSdk/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
